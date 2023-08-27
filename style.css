@@ -21,6 +21,7 @@ html {
 body {
   background-color: #f4f4f5;
   height: 100vh;
+  transform: scale(0.75);
 }
 
 .facebook-logo {
