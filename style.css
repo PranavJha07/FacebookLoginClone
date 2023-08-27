@@ -134,6 +134,7 @@ input::placeholder {
   font-size: 2.4rem;
   border-radius: 10px;
   transform: translate(43%, 0);
+  cursor:pointer;
 }
 
 .extra {
